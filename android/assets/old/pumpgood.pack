@@ -1,0 +1,47 @@
+
+pumpgood.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pumpx
+  rotate: false
+  xy: 0, 64
+  size: 768, 64
+  orig: 768, 64
+  offset: 0, 0
+  index: -1
+pumpmilk_goal
+  rotate: false
+  xy: 0, 16
+  size: 528, 48
+  orig: 528, 48
+  offset: 0, 0
+  index: -1
+pumpmilk_sprite
+  rotate: false
+  xy: 768, 80
+  size: 528, 48
+  orig: 528, 48
+  offset: 0, 0
+  index: -1
+enemy_ranged
+  rotate: false
+  xy: 528, 0
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+enemy_melee
+  rotate: false
+  xy: 720, 0
+  size: 144, 64
+  orig: 144, 64
+  offset: 0, 0
+  index: -1
+pumpbank
+  rotate: false
+  xy: 0, 0
+  size: 112, 16
+  orig: 112, 16
+  offset: 0, 0
+  index: -1
